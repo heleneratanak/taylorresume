@@ -1,0 +1,214 @@
+*{
+    background-color:#BAD1D3;
+}
+@media only screen and (max-width: 1920px) {
+@media only screen and (min-width: 901px) {
+body{
+        margin-top: 75px;
+        margin-left:150px;
+        margin-right:150px;
+}
+.logo img{
+    position: fixed;
+    width: 125px;
+    margin-left: -175px;
+    margin-top:-30px;
+}
+
+hr.rounded {
+    border-top: 8px solid #204199;
+    border-radius: 5px;
+  }
+.information{
+    text-align: center;
+}
+.information p{
+    font-size: 14px;
+    margin-top: -15px;
+}
+
+.education{
+    float: left;
+    text-align: left;
+}
+.education h3{
+    margin-bottom: -12px;
+}
+
+.education p{
+    font-size: 14px;
+    margin-top: -12px;
+}
+.education hr{
+    margin-top: 37px;
+}
+
+.workexp{
+    float: right;
+    text-align: right;
+}
+.workexp h4{
+    margin-top: -14px;
+}
+.workexp h5{
+    margin-top: -14px;
+}
+.workexp ul{
+    margin-top: -14px;
+}
+
+.skills{
+    float: left;
+    text-align: left;
+    /*margin-top: -20px;*/
+}
+
+.skills h3{
+    margin-bottom: -12px;
+}
+.skills ul{
+    margin-top: -12px;
+}
+
+.commissions{
+    clear:both;
+    float:right;
+    text-align: right;
+}
+
+.certificates{
+    clear:both;
+    text-align: center;
+}
+
+.topnav {
+    margin-left: 34%;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .topnav a:hover {
+    background-color:#F8AC83;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: black;
+  }
+    }
+}
+
+  @media only screen and (max-width: 1134px) {
+    body{
+        margin-top: 75px;
+        margin-left:150px;
+        margin-right:150px;
+    }
+
+    .logo img{
+        width: 12%;
+        margin-left: -75px;
+        margin-top:-30px;
+    }
+
+    hr.rounded {
+        border-top: 8px solid #204199;
+        border-radius: 5px;
+      }
+    /*--Start of Infomation---*/
+    .information{
+        text-align: center;
+    }
+    .information p{
+        font-size: 14px;
+        margin-top: -15px;
+    }
+    /*---end of Information---*/
+    
+    .education{
+        float: left;
+        text-align: center;
+    }
+    .education h3{
+        margin-bottom: -12px;
+    }
+    
+    .education p{
+        font-size: 14px;
+        margin-top: -12px;
+    }
+    .education hr{
+        margin-top: 37px;
+    }
+    
+    .workexp{
+        float: right;
+        text-align: center;
+    }
+    .workexp h4{
+        margin-top: -14px;
+    }
+    .workexp h5{
+        margin-top: -14px;
+    }
+    .workexp ul{
+        margin-top: -14px;
+    }
+    
+    .skills{
+        float: left;
+        text-align: center;
+        /*margin-top: -20px;*/
+    }
+    
+    .skills h3{
+        margin-bottom: -12px;
+    }
+    .skills ul{
+        margin-top: -12px;
+    }
+    
+    .commissions{
+        clear:both;
+        float:right;
+        text-align: center;
+    }
+    
+    .certificates{
+        clear:both;
+        text-align: center;
+    }
+    
+    .topnav {
+        margin-left: 34%;
+        overflow: hidden;
+      }
+      
+      .topnav a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 15px 15px;
+        text-decoration: none;
+        font-size: 15px;
+      }
+      
+      .topnav a:hover {
+        background-color:#F8AC83;
+        color: black;
+      }
+      
+      .topnav a.active {
+        background-color: #4CAF50;
+        color: black;
+      }
+}
